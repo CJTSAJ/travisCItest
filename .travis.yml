@@ -1,0 +1,6 @@
+language: java
+jdk:
+  - oraclejdk8
+notifications:
+  email:
+    - 997149731@qq.com
